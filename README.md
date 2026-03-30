@@ -1,1 +1,1 @@
-It contains all the basic python programs.
+It contains all the python programs I did while completeing CS50 course.
